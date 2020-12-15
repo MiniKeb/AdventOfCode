@@ -7,6 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Content Include="Input4.txt" />
     <Compile Include="Common.fs" />
     <Content Include="Input1.txt" />
     <Compile Include="Day1.fs" />
@@ -14,6 +15,7 @@
     <Compile Include="Day2.fs" />
     <Content Include="Input3.txt" />
     <Compile Include="Day3.fs" />
+    <Compile Include="Day4.fs" />
     <Compile Include="Program.fs" />
   </ItemGroup>
 

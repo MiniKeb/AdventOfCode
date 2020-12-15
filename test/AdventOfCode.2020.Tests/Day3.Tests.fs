@@ -1,4 +1,4 @@
-module AdventOfCode._2020.Tests
+module Tests.Day3
 
 open NUnit.Framework
 open NFluent
